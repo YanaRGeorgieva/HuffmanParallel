@@ -1,0 +1,961 @@
+(11:56 u81281@t5600 project) > cat resultStaticGranularity1
+Currently 1 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 36285.831959 millis.
+Currently 1 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 36303.615040 millis.
+Currently 1 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 36247.393502 millis.
+Currently 2 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 18445.063040 millis.
+Currently 2 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 18476.565297 millis.
+Currently 2 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 18548.245182 millis.
+Currently 3 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 12332.335572 millis.
+Currently 3 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 12290.827308 millis.
+Currently 3 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 12295.203296 millis.
+Currently 4 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 9222.185661 millis.
+Currently 4 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 9263.005816 millis.
+Currently 4 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 9266.609518 millis.
+Currently 5 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 7416.867372 millis.
+Currently 5 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 7466.793929 millis.
+Currently 5 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 7441.035982 millis.
+Currently 6 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 6166.716219 millis.
+Currently 6 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 6192.599568 millis.
+Currently 6 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 6184.091239 millis.
+Currently 7 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 5310.536458 millis.
+Currently 7 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 5300.374448 millis.
+Currently 7 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 5303.970081 millis.
+Currently 8 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4643.214855 millis.
+Currently 8 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4632.338298 millis.
+Currently 8 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4642.660258 millis.
+Currently 9 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4148.849859 millis.
+Currently 9 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4114.471663 millis.
+Currently 9 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 4128.327366 millis.
+Currently 10 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3726.210988 millis.
+Currently 10 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3737.706562 millis.
+Currently 10 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3718.775331 millis.
+Currently 11 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3378.679317 millis.
+Currently 11 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3374.906091 millis.
+Currently 11 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3408.850279 millis.
+Currently 12 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3098.999224 millis.
+Currently 12 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3101.983137 millis.
+Currently 12 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 3105.808108 millis.
+Currently 13 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2864.896731 millis.
+Currently 13 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2883.078960 millis.
+Currently 13 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2865.470639 millis.
+Currently 14 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2667.034871 millis.
+Currently 14 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2658.773380 millis.
+Currently 14 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2663.281379 millis.
+Currently 15 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2548.290285 millis.
+Currently 15 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2629.423029 millis.
+Currently 15 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2582.556069 millis.
+Currently 16 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2342.155443 millis.
+Currently 16 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2371.311487 millis.
+Currently 16 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2343.696800 millis.
+Currently 17 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2508.392009 millis.
+Currently 17 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2547.065214 millis.
+Currently 17 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2365.716837 millis.
+Currently 18 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2460.033428 millis.
+Currently 18 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2534.304674 millis.
+Currently 18 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2776.604106 millis.
+Currently 19 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2507.681494 millis.
+Currently 19 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2664.068684 millis.
+Currently 19 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2420.994054 millis.
+Currently 20 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2391.926845 millis.
+Currently 20 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2618.208194 millis.
+Currently 20 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2502.229791 millis.
+Currently 21 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2521.754001 millis.
+Currently 21 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2411.974297 millis.
+Currently 21 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2496.797715 millis.
+Currently 22 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2399.831835 millis.
+Currently 22 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2385.310713 millis.
+Currently 22 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2301.404102 millis.
+Currently 23 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2324.732329 millis.
+Currently 23 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2414.103392 millis.
+Currently 23 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2491.970902 millis.
+Currently 24 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2343.814007 millis.
+Currently 24 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2361.855617 millis.
+Currently 24 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2377.269478 millis.
+Currently 25 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2324.123388 millis.
+Currently 25 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2337.596999 millis.
+Currently 25 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2301.146777 millis.
+Currently 26 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2248.342649 millis.
+Currently 26 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2238.166353 millis.
+Currently 26 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2225.988870 millis.
+Currently 27 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2287.371850 millis.
+Currently 27 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2279.355799 millis.
+Currently 27 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2274.726897 millis.
+Currently 28 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2261.242782 millis.
+Currently 28 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2238.159274 millis.
+Currently 28 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2206.670928 millis.
+Currently 29 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2216.900053 millis.
+Currently 29 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2256.743032 millis.
+Currently 29 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2191.149740 millis.
+Currently 30 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2151.348448 millis.
+Currently 30 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2191.045419 millis.
+Currently 30 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2200.481530 millis.
+Currently 31 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2162.462871 millis.
+Currently 31 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2154.050555 millis.
+Currently 31 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2154.969422 millis.
+Currently 32 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2096.079095 millis.
+Currently 32 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2092.912726 millis.
+Currently 32 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2092.020358 millis.
+Currently 33 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2309.200260 millis.
+Currently 33 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2294.039703 millis.
+Currently 33 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2297.304296 millis.
+Currently 34 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2414.782937 millis.
+Currently 34 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2257.766981 millis.
+Currently 34 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2352.877379 millis.
+Currently 35 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2431.063450 millis.
+Currently 35 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2336.085622 millis.
+Currently 35 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2298.783363 millis.
+Currently 36 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2322.516085 millis.
+Currently 36 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2206.763486 millis.
+Currently 36 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2373.832550 millis.
+Currently 37 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2275.943587 millis.
+Currently 37 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2142.928455 millis.
+Currently 37 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2221.730133 millis.
+Currently 38 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2251.347275 millis.
+Currently 38 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2216.287576 millis.
+Currently 38 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2204.304739 millis.
+Currently 39 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2200.071197 millis.
+Currently 39 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2178.562658 millis.
+Currently 39 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2190.059846 millis.
+Currently 40 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2310.360382 millis.
+Currently 40 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2204.530145 millis.
+Currently 40 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2268.791339 millis.
+Currently 41 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2200.426411 millis.
+Currently 41 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2139.544608 millis.
+Currently 41 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2177.793144 millis.
+Currently 42 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2207.776323 millis.
+Currently 42 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2141.843608 millis.
+Currently 42 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2198.343646 millis.
+Currently 43 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2134.672348 millis.
+Currently 43 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2173.858141 millis.
+Currently 43 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2173.438331 millis.
+Currently 44 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2157.702505 millis.
+Currently 44 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2147.422317 millis.
+Currently 44 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2215.226473 millis.
+Currently 45 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2179.144939 millis.
+Currently 45 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2136.997163 millis.
+Currently 45 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2120.629313 millis.
+Currently 46 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2178.199241 millis.
+Currently 46 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2169.929731 millis.
+Currently 46 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2180.825605 millis.
+Currently 47 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2217.697125 millis.
+Currently 47 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2186.746061 millis.
+Currently 47 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2172.040323 millis.
+Currently 48 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2188.657773 millis.
+Currently 48 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2208.646822 millis.
+Currently 48 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2211.402363 millis.
+Currently 49 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2204.964152 millis.
+Currently 49 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2197.606939 millis.
+Currently 49 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2219.161977 millis.
+Currently 50 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2171.652224 millis.
+Currently 50 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2165.290631 millis.
+Currently 50 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2166.017641 millis.
+Currently 51 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2214.405670 millis.
+Currently 51 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2181.365673 millis.
+Currently 51 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2157.555576 millis.
+Currently 52 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2143.211306 millis.
+Currently 52 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2166.818357 millis.
+Currently 52 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2182.431392 millis.
+Currently 53 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2119.134210 millis.
+Currently 53 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2168.016769 millis.
+Currently 53 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2145.228667 millis.
+Currently 54 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2176.153556 millis.
+Currently 54 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2154.540300 millis.
+Currently 54 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2195.994540 millis.
+Currently 55 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2137.018011 millis.
+Currently 55 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2113.384600 millis.
+Currently 55 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2125.706657 millis.
+Currently 56 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2125.838288 millis.
+Currently 56 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2150.283279 millis.
+Currently 56 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2125.504545 millis.
+Currently 57 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2127.020306 millis.
+Currently 57 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2121.694937 millis.
+Currently 57 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2141.518247 millis.
+Currently 58 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2117.150233 millis.
+Currently 58 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2136.556101 millis.
+Currently 58 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2116.098046 millis.
+Currently 59 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2121.516022 millis.
+Currently 59 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2117.449438 millis.
+Currently 59 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2111.209520 millis.
+Currently 60 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2114.433461 millis.
+Currently 60 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2107.124054 millis.
+Currently 60 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2098.416987 millis.
+Currently 61 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2087.012207 millis.
+Currently 61 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2082.527994 millis.
+Currently 61 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2141.830599 millis.
+Currently 62 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2089.377997 millis.
+Currently 62 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2107.682005 millis.
+Currently 62 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2139.450114 millis.
+Currently 63 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2154.925666 millis.
+Currently 63 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2152.125096 millis.
+Currently 63 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2121.125293 millis.
+Currently 64 threads, granularity is 1 and planning is static. Try number 1.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2117.709119 millis.
+Currently 64 threads, granularity is 1 and planning is static. Try number 2.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2119.852967 millis.
+Currently 64 threads, granularity is 1 and planning is static. Try number 3.
+Calculation of the frequency table has began.
+Using static distribution.
+Calculation of the frequency table has ended.
+Its execution time was 2109.107856 millis.

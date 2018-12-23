@@ -1,0 +1,961 @@
+(16:31 u81281@t5600 project) > cat resultDynamicGranularity3
+Currently 1 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 35553.407729 millis.
+Currently 1 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 35555.164421 millis.
+Currently 1 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 35507.193193 millis.
+Currently 2 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 17940.764239 millis.
+Currently 2 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 17818.714579 millis.
+Currently 2 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 17772.876863 millis.
+Currently 3 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 11928.492680 millis.
+Currently 3 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 11946.390450 millis.
+Currently 3 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 11872.241842 millis.
+Currently 4 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 9247.031134 millis.
+Currently 4 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 9236.537283 millis.
+Currently 4 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 9247.535773 millis.
+Currently 5 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 8104.712118 millis.
+Currently 5 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 7608.467462 millis.
+Currently 5 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 7513.741605 millis.
+Currently 6 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 7527.590013 millis.
+Currently 6 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 6202.386836 millis.
+Currently 6 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 6540.289721 millis.
+Currently 7 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5976.693574 millis.
+Currently 7 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5798.501163 millis.
+Currently 7 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 6668.771989 millis.
+Currently 8 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5306.277465 millis.
+Currently 8 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5502.874273 millis.
+Currently 8 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5559.550058 millis.
+Currently 9 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4280.909783 millis.
+Currently 9 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5120.158038 millis.
+Currently 9 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5108.360240 millis.
+Currently 10 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4562.222280 millis.
+Currently 10 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4255.662365 millis.
+Currently 10 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4664.384804 millis.
+Currently 11 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4139.787752 millis.
+Currently 11 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3790.081178 millis.
+Currently 11 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3484.184278 millis.
+Currently 12 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3481.348634 millis.
+Currently 12 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4408.546278 millis.
+Currently 12 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4161.565690 millis.
+Currently 13 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4079.582781 millis.
+Currently 13 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3724.159768 millis.
+Currently 13 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3653.499990 millis.
+Currently 14 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3738.942197 millis.
+Currently 14 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2987.333958 millis.
+Currently 14 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3565.561863 millis.
+Currently 15 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2884.438589 millis.
+Currently 15 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3486.316588 millis.
+Currently 15 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3170.723117 millis.
+Currently 16 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3013.773475 millis.
+Currently 16 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4034.915803 millis.
+Currently 16 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5471.261145 millis.
+Currently 17 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 6034.321218 millis.
+Currently 17 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3821.186623 millis.
+Currently 17 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5544.686570 millis.
+Currently 18 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3519.674637 millis.
+Currently 18 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4142.555294 millis.
+Currently 18 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3539.978956 millis.
+Currently 19 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3444.517332 millis.
+Currently 19 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4357.652695 millis.
+Currently 19 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4369.033067 millis.
+Currently 20 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3348.139799 millis.
+Currently 20 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 5111.581019 millis.
+Currently 20 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4725.047705 millis.
+Currently 21 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2903.019150 millis.
+Currently 21 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4380.457658 millis.
+Currently 21 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4782.963879 millis.
+Currently 22 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3063.555291 millis.
+Currently 22 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2978.987283 millis.
+Currently 22 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4549.432247 millis.
+Currently 23 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4190.658555 millis.
+Currently 23 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4056.605134 millis.
+Currently 23 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3571.834308 millis.
+Currently 24 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2985.715573 millis.
+Currently 24 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4270.924331 millis.
+Currently 24 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3361.562990 millis.
+Currently 25 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3529.817469 millis.
+Currently 25 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 4282.586678 millis.
+Currently 25 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2491.510975 millis.
+Currently 26 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2552.004137 millis.
+Currently 26 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3840.253669 millis.
+Currently 26 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3769.722435 millis.
+Currently 27 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3770.648542 millis.
+Currently 27 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3629.038308 millis.
+Currently 27 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2638.738224 millis.
+Currently 28 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3663.749519 millis.
+Currently 28 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3053.385990 millis.
+Currently 28 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2570.388196 millis.
+Currently 29 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3447.070990 millis.
+Currently 29 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2479.273611 millis.
+Currently 29 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2441.839092 millis.
+Currently 30 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2417.694354 millis.
+Currently 30 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2448.727644 millis.
+Currently 30 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2856.933993 millis.
+Currently 31 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2436.630336 millis.
+Currently 31 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2312.586881 millis.
+Currently 31 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2337.563750 millis.
+Currently 32 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2133.638381 millis.
+Currently 32 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2228.680769 millis.
+Currently 32 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2308.072982 millis.
+Currently 33 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2336.546770 millis.
+Currently 33 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2375.881711 millis.
+Currently 33 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2434.475070 millis.
+Currently 34 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2994.977979 millis.
+Currently 34 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2324.328890 millis.
+Currently 34 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3041.439186 millis.
+Currently 35 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 3181.983361 millis.
+Currently 35 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2656.588122 millis.
+Currently 35 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2648.783508 millis.
+Currently 36 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2708.638438 millis.
+Currently 36 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2822.043089 millis.
+Currently 36 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2913.986442 millis.
+Currently 37 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2557.846688 millis.
+Currently 37 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2622.949758 millis.
+Currently 37 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2825.253906 millis.
+Currently 38 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2428.092400 millis.
+Currently 38 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2487.191181 millis.
+Currently 38 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2645.093508 millis.
+Currently 39 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2430.089814 millis.
+Currently 39 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2413.125423 millis.
+Currently 39 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2601.429282 millis.
+Currently 40 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2582.663532 millis.
+Currently 40 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2416.575731 millis.
+Currently 40 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2753.189150 millis.
+Currently 41 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2415.262475 millis.
+Currently 41 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2666.986648 millis.
+Currently 41 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2373.981250 millis.
+Currently 42 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2272.574715 millis.
+Currently 42 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2418.368766 millis.
+Currently 42 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2349.613433 millis.
+Currently 43 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2429.635768 millis.
+Currently 43 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2350.051618 millis.
+Currently 43 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2454.155075 millis.
+Currently 44 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2488.688996 millis.
+Currently 44 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2327.521469 millis.
+Currently 44 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2478.852801 millis.
+Currently 45 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2514.564500 millis.
+Currently 45 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2582.444367 millis.
+Currently 45 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2469.260289 millis.
+Currently 46 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2350.292013 millis.
+Currently 46 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2418.182240 millis.
+Currently 46 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2387.735835 millis.
+Currently 47 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2372.259043 millis.
+Currently 47 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2506.619794 millis.
+Currently 47 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2357.922599 millis.
+Currently 48 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2403.678038 millis.
+Currently 48 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2232.404022 millis.
+Currently 48 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2313.559789 millis.
+Currently 49 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2282.778808 millis.
+Currently 49 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2326.948230 millis.
+Currently 49 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2398.518257 millis.
+Currently 50 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2483.480188 millis.
+Currently 50 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2342.041195 millis.
+Currently 50 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2299.342547 millis.
+Currently 51 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2280.708931 millis.
+Currently 51 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2255.371311 millis.
+Currently 51 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2550.161930 millis.
+Currently 52 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2399.768901 millis.
+Currently 52 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2377.880746 millis.
+Currently 52 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2682.114361 millis.
+Currently 53 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2453.545838 millis.
+Currently 53 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2275.241221 millis.
+Currently 53 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2427.440790 millis.
+Currently 54 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2417.831251 millis.
+Currently 54 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2284.440736 millis.
+Currently 54 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2319.374470 millis.
+Currently 55 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2201.964928 millis.
+Currently 55 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2258.530988 millis.
+Currently 55 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2274.304670 millis.
+Currently 56 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2242.147671 millis.
+Currently 56 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2247.509375 millis.
+Currently 56 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2547.651707 millis.
+Currently 57 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2288.883656 millis.
+Currently 57 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2259.108845 millis.
+Currently 57 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2371.852195 millis.
+Currently 58 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2402.278373 millis.
+Currently 58 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2289.219995 millis.
+Currently 58 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2296.780695 millis.
+Currently 59 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2234.442173 millis.
+Currently 59 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2700.516986 millis.
+Currently 59 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2365.041523 millis.
+Currently 60 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2281.320093 millis.
+Currently 60 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2441.800440 millis.
+Currently 60 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2509.991086 millis.
+Currently 61 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2460.147625 millis.
+Currently 61 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2397.866206 millis.
+Currently 61 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2273.908441 millis.
+Currently 62 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2206.714322 millis.
+Currently 62 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2483.315915 millis.
+Currently 62 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2260.810453 millis.
+Currently 63 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2238.604142 millis.
+Currently 63 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2266.410672 millis.
+Currently 63 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2237.211479 millis.
+Currently 64 threads, granularity is 3 and planning is dynamic. Try number 1.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2248.042450 millis.
+Currently 64 threads, granularity is 3 and planning is dynamic. Try number 2.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2230.710895 millis.
+Currently 64 threads, granularity is 3 and planning is dynamic. Try number 3.
+Calculation of the frequency table has began.
+Using pool of threads.
+Calculation of the frequency table has ended.
+Its execution time was 2434.797831 millis.
